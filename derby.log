@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 03 00:54:27 CDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0163-c436-0e72-0000076648d8 
+on database directory C:\Users\Taurus\Documents\NetBeansProjects\AnimalesFTAOAD\BDAsociacion with class loader sun.misc.Launcher$AppClassLoader@6e0be858 
+Loaded from file:/C:/Users/Taurus/Documents/NetBeansProjects/AnimalesFTAOAD/src/jar/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=C:\Users\Taurus\Documents\NetBeansProjects\AnimalesFTAOAD
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
